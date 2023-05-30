@@ -1,0 +1,84 @@
+// Externals
+
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+
+// Basics
+@import "basics/typography";
+@import "basics/base";
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/modals";
+@import "basics/animations";
+
+// Views
+@import "views/contact-home";
+@import "views/contact-index";
+@import "views/contact-edit";
+@import "views/contact-details";
+@import "views/signup";
+
+// Components
+@import "cmps/app-header";
+@import "cmps/contact-list";
+@import "cmps/contact-filter";
+@import "cmps/contact-preview";
+
+
+
+
+.main-app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    main {
+        flex-grow: 1;
+        width: 100%;
+    }
+
+    >footer {
+        background-color:#0114105e;
+        color: white;
+    }
+}
+
+.moves-list {
+    margin-top: 20px;
+    color: white;
+    background-color: #2523318c;
+    padding: 10px;
+    border-radius: 15px;
+
+    // div.move{
+    // //    background-color: aqua;
+    // }
+}
+
+.trunsfer-fund {
+    margin-top: 20px;
+    color: white;
+    background-color: #0820248f;
+    padding: 10px;
+    border-radius: 15px;
+
+    .trunsfer-container {
+        display: flex;
+        gap: 10px;
+        padding: 10px 0;
+    }
+    button {
+        color: white;
+    }
+}
+
+.chart {
+    select {
+        display: block;
+        margin: 15px auto;
+        color: #2b2231;
+        padding: 4px;
+    }
+}

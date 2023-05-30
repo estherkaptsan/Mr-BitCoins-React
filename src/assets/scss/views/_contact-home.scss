@@ -1,0 +1,16 @@
+.contact-home {
+    background-color: #0b252e99;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+
+    >h2 {
+        color: #ffffff;
+        padding-inline-start: 20px;
+        font-family: cursive;
+    }
+
+    h2:first-child {
+        padding-bottom: 20px;
+    }
+}

@@ -1,0 +1,21 @@
+.contact-details {
+    text-align: center;
+    color: white;
+    >*{
+        padding: 5px;
+    }
+    h1 {
+        font-size: 30px;
+        color: #d6c4e4;
+    }
+
+    img {
+        width: 200px;
+        border-radius: 50%;
+        border: 1px solid white;
+    }
+    button {
+        color: white;
+        font-size: 25px;
+    }
+}

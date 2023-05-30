@@ -1,0 +1,21 @@
+.signup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    
+    span{
+        font-size: 50px;
+        color: white;
+    }
+    input {
+        width: 300px;
+        height: 40px;
+        padding: 10px;
+    }
+    button{
+        font-size: 25px;
+        color: white;
+    }
+}
