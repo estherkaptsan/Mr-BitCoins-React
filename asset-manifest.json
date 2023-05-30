@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/estherkaptsan/Mr-BitCoins-React/static/css/main.519f12af.css",
-    "main.js": "/estherkaptsan/Mr-BitCoins-React/static/js/main.18e711d7.js",
-    "static/js/787.dfa6a89a.chunk.js": "/estherkaptsan/Mr-BitCoins-React/static/js/787.dfa6a89a.chunk.js",
-    "static/media/user.png": "/estherkaptsan/Mr-BitCoins-React/static/media/user.914c1c1e735aaecabb8f.png",
-    "index.html": "/estherkaptsan/Mr-BitCoins-React/index.html",
-    "main.519f12af.css.map": "/estherkaptsan/Mr-BitCoins-React/static/css/main.519f12af.css.map",
-    "main.18e711d7.js.map": "/estherkaptsan/Mr-BitCoins-React/static/js/main.18e711d7.js.map",
-    "787.dfa6a89a.chunk.js.map": "/estherkaptsan/Mr-BitCoins-React/static/js/787.dfa6a89a.chunk.js.map"
+    "main.css": "/Mr-BitCoins-React/static/css/main.519f12af.css",
+    "main.js": "/Mr-BitCoins-React/static/js/main.0cb50318.js",
+    "static/js/787.dfa6a89a.chunk.js": "/Mr-BitCoins-React/static/js/787.dfa6a89a.chunk.js",
+    "static/media/user.png": "/Mr-BitCoins-React/static/media/user.914c1c1e735aaecabb8f.png",
+    "index.html": "/Mr-BitCoins-React/index.html",
+    "main.519f12af.css.map": "/Mr-BitCoins-React/static/css/main.519f12af.css.map",
+    "main.0cb50318.js.map": "/Mr-BitCoins-React/static/js/main.0cb50318.js.map",
+    "787.dfa6a89a.chunk.js.map": "/Mr-BitCoins-React/static/js/787.dfa6a89a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.519f12af.css",
-    "static/js/main.18e711d7.js"
+    "static/js/main.0cb50318.js"
   ]
 }
